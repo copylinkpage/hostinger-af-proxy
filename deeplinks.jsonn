@@ -1,0 +1,14 @@
+{
+  "byCategory": {
+    "WEB_HOSTING": "https://gg-app.link/Affiliage-hostinger",
+    "WORDPRESS": "https://gg-app.link/Affiliage-hostinger",
+    "CLOUD": "https://gg-app.link/Affiliage-hostinger",
+    "VPS": "https://gg-app.link/Affiliage-hostinger"
+  },
+  "byName": {
+    "Premium Web Hosting": "https://gg-app.link/Affiliage-hostinger"
+  },
+  "byId": {
+    "web-premium": "https://gg-app.link/Affiliage-hostinger"
+  }
+}
